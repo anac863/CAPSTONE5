@@ -8,8 +8,8 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "https://anac863.github.io/CAPSTONE5/",
-            "webRoot": "${workspaceFolder}"
+            "url": "http://localhost:5040",
+            "webRoot": "$CAPSTONE5"
         }
     ]
 }
